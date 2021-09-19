@@ -1,0 +1,54 @@
+body{
+    background-color: hotpink;
+    border-color: solid 8px blue;
+    text-align: center;
+    border: 10px blue solid;
+    padding: 10px;
+}
+#img1{
+height: 600px;
+    width: 100%;
+        border:solid 10px bue;
+}
+.imagerow1{
+    width: 300px;
+    height: 300px;
+}
+#home{
+position: absolute;
+    height: 800px;
+    width: 100%;
+}
+.unordered{
+    list-style: none;
+    position: fixed;
+    cursor: pointer;
+    z-index: 10;
+}
+.list{
+    display: inline;
+    font-size:25;
+    padding:10;
+}
+#myCarousel img{
+    height: 500px;
+width: 800px;
+    
+}
+#myCarousel{
+    background-color:deeppink;
+}
+.carousel-inner p{
+    font-size: 15px;
+    font-family: fantasy;
+}
+.unordered{
+    list-style-type: none;
+    width: 100%;
+    background: white;
+        color:black;
+}
+.list1{
+    display: inline;
+    padding: 20px;
+}
